@@ -12,7 +12,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 s3transfer==0.1.13
 six==1.12.0
-urllib3==1.24.1
+urllib3==1.26.5
 mysqlclient==1.4.1
 requests==2.21.0
 python-slugify==3.0.2
